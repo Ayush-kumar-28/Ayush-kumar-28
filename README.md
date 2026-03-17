@@ -14,14 +14,14 @@ Hi, I'm Ayush Kumar
 
 🛠️ Tech Stack:
 
-💻 Languages
+💻 Languages: 
 C / C++
 Java
 JavaScript / TypeScript
 SQL
 HTML / CSS
 
-⚙️ Frameworks & Libraries:
+⚙️ Frameworks & Libraries: 
 React.js, Next.js
 Node.js, Express.js
 Tailwind CSS, Material UI, ShadCN
@@ -35,16 +35,11 @@ AWS (EC2, DynamoDB, Cognito)
 
 Cloudinary, ConvexDB
 
-🧰 Tools & DevOps:
-
+🧰 Tools & DevOps: 
 Git & GitHub
-
 Docker
-
 CI/CD
-
 Postman, ThunderClient
-
 VS Code
 
 🚀 Projects
@@ -112,8 +107,11 @@ Software Engineering
 📫 Connect With Me
 
 📧 Email: ayushkumar93945@gmail.com
+
 💼 LinkedIn: https://linkedin.com/in/Ayushkumar
+
 💻 GitHub: https://github.com/Ayush-kumar-28
+
 🌐 Portfolio: 
 
 ⚡ Fun Fact
