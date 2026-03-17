@@ -15,25 +15,16 @@ Hi, I'm Ayush Kumar
 🛠️ Tech Stack:
 
 💻 Languages
-
 C / C++
-
 Java
-
 JavaScript / TypeScript
-
 SQL
-
 HTML / CSS
 
 ⚙️ Frameworks & Libraries:
-
 React.js, Next.js
-
 Node.js, Express.js
-
 Tailwind CSS, Material UI, ShadCN
-
 Redux Toolkit
 
 ☁️ Cloud & Databases:
