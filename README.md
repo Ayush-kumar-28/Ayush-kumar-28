@@ -1,44 +1,65 @@
 Hi, I'm Ayush Kumar
 
 🚀 Full-Stack Developer | AI Enthusiast | Open Source Contributor
+
 🎓 B.Tech CSE @ Usha Martin University (2023–2027)
+
 💡 Passionate about building scalable web apps & AI-powered systems
+
 🏆 Top 10% on LeetCode (Rating: 1778)
+
 🌟 Contributor @ GSSOC 2024
+
 🥇 College Hackathon Winner (2025)
 
 🛠️ Tech Stack:
 
 💻 Languages
+
 C / C++
+
 Java
+
 JavaScript / TypeScript
+
 SQL
+
 HTML / CSS
 
 ⚙️ Frameworks & Libraries:
 
 React.js, Next.js
+
 Node.js, Express.js
+
 Tailwind CSS, Material UI, ShadCN
+
 Redux Toolkit
 
 ☁️ Cloud & Databases:
 
 MongoDB, MySQL, Redis
+
 AWS (EC2, DynamoDB, Cognito)
+
 Cloudinary, ConvexDB
 
 🧰 Tools & DevOps:
+
 Git & GitHub
+
 Docker
+
 CI/CD
+
 Postman, ThunderClient
+
 VS Code
 
 🚀 Projects
 
 🔹 MentorVerse
+
 AI-powered full-stack mentorship platform
 
 🤝 Connects mentors & mentees using intelligent matching
@@ -86,10 +107,15 @@ Built strong communication & leadership skills
 📚 Relevant Coursework
 
 Data Structures & Algorithms
+
 DBMS
+
 Operating Systems
+
 OOPs
+
 Computer Networks
+
 Software Engineering
 
 📫 Connect With Me
